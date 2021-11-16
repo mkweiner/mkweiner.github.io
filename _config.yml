@@ -20,7 +20,7 @@ title                    : "Matthew's Portfolio Site"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Matthew Weiner"
-description              : "An amazing website."
+description              : "A portfolio site for Matthew Weiner"
 url                      : "https://mkweiner.com"
 baseurl                  : "/"
 repository               : "mkweiner/mkweiner.github.io"
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Matthew Weiner"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "A recent Computer Science graduate"
+  location         : "Chicago, IL, USA"
   email            :
   links:
     - label: "Email"
