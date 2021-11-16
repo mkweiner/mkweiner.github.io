@@ -1,6 +1,7 @@
 ---
-title: "About"
+title: "About Me"
+layout: single
 permalink: /about
-author_profile: true
+excerpt: "About Me page"
 ---
 Coming soon
