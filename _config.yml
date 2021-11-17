@@ -104,16 +104,16 @@ analytics:
 author:
   name             : "Matthew Weiner"
   avatar           : "/assets/images/Profile.jpeg"
-  bio              : "A recent Computer Science graduate"
+  bio              : "Software Engineer"
   location         : "Chicago, IL, USA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/matthew-k-weiner/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
