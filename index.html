@@ -1,8 +1,44 @@
 ---
-layout: single
+layout: splash
 permalink: /
-author_profile: true
+excerpt: "A portfolio website devoted to the accomplishments of Matthew Weiner"
+header_excerpt: "Welcome to my portfolio website. It is currently under construction, and will be frequently updated with new content."
+header:
+  overlay_color: "#000"
+  actions:
+    - label: "Contact Me"
+      url: "/contact"
+feature_row:
+  - image_path: "https://via.placeholder.com/1200x800.png?text=Image%20Coming%20Soon"
+    alt: "placeholder for about me image"
+    title: "About Me"
+    excerpt: "I am a recent computer science graduate. I'm looking for a job that will allow me to utilize my technical skills."
+    url: "/about"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: "https://via.placeholder.com/1200x800.png?text=Image%20Coming%20Soon"
+    alt: "placeholder for work image"
+    title: "My Work"
+    excerpt: "I have been fortunate enough to design and develop a wide variety of tools and programs. Here are some of my favorite creations."
+    url: "/projects"
+    btn_label: "Explore Projects"
+    btn_class: "btn--primary"
+  - image_path: "https://via.placeholder.com/1200x800.png?text=Image%20Coming%20Soon"
+    alt: "placeholder for blog"
+    title: "News and Events"
+    excerpt: "Looking for updates about my life, but don't want to contact me or check social media? This is the place for you!"
+    url: "/events"
+    btn_label: "What's New"
+    btn_class: "btn--primary"
+
+feature_row2:
+  - title: "Get In Touch"
+    excerpt: "I welcome any inquiries, and strive to provide quick, helpful responses."
+    url: "/contact"
+    btn_label: "Contact Me"
+    btn_class: "btn--primary"
 ---
 
-<p>Site Under Construction</p>
+{% include feature_row %}
 
+{% include feature_row id="feature_row2" type="center" %}
