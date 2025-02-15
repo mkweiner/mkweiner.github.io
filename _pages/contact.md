@@ -14,16 +14,16 @@ Page is under active development, and may not function as expected.
 Please fill out the form below to get in touch with me.
 
 <form id="contact-form" action="https://contact-form-350679746849.us-central1.run.app" method="POST">
-  <label for="name">Your Name</label>
+  <label for="name">Full Name (Required)</label>
   <input type="text" name="name" id="name" required>
 
-  <label for="email">Your Email</label>
+  <label for="email">Email (Required)</label>
   <input type="email" name="email" id="email" required>
 
   <label for="company">Company Name (Optional)</label>
   <input type="text" name="company" id="company">
 
-  <label for="message">Your Message</label>
+  <label for="message">Message (Required)</label>
   <textarea name="message" id="message" required></textarea>
 
   <!-- reCAPTCHA token will be added here -->
