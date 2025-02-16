@@ -13,7 +13,7 @@ Page is under active development, and may not function as expected.
 
 Please fill out the form below to get in touch with me.
 
-<form id="contact-form" action="https://2ro4uwa3xbv5rli3333zdetw5m0ezltv.lambda-url.us-east-1.on.aws/" method="POST">
+<form id="contact-form" action="https://q3j0bdexxf.execute-api.us-east-1.amazonaws.com/contact" method="POST">
   <label for="name">Full Name (Required)</label>
   <input type="text" name="name" id="name" required>
 
