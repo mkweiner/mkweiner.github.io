@@ -9,8 +9,6 @@ author_profile: true
 
 ## Contact Me
 
-Page is under active development, and may not function as expected.
-
 Please fill out the form below to get in touch with me.
 
 <form id="contact-form" action="https://q3j0bdexxf.execute-api.us-east-1.amazonaws.com/contact" method="POST">
